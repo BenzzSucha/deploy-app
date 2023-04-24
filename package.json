@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kogsio/littletiers.git"
+    "url": "git+https://github.com/BenzzSucha/deploy-app.git"
   },
-  "author": "abel@mit.edu",
+  "author": "benzzii.bb@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kogsio/littletiers/issues"
+    "url": "https://github.com/BenzzSucha/deploy-app/issues"
   },
-  "homepage": "https://github.com/kogsio/littletiers#readme",
+  "homepage": "https://github.com/BenzzSucha/deploy-app#readme",
   "dependencies": {
     "@faker-js/faker": "^7.4.0",
     "cors": "^2.8.5",
